@@ -23,5 +23,8 @@ like
     so be care fully create a register page finally what is take input from user
 
   ############### WHAT IS TAKE INPUT FROM USER 
+
+  data ko store karne ke liye helper hai
+  1 . prisma     2.mangoose
   
 
